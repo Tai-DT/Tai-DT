@@ -185,11 +185,11 @@ const kai = {
 
 ---
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
-
-<!-- TROPHY -->
-<img src="https://github-profile-trophy.vercel.app/?username=Tai-DT&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="95%"/>
-
+  <h3>🐍 Watch my contributions get eaten!</h3>
+  <br/>
+  <img src="https://raw.githubusercontent.com/Tai-DT/Tai-DT/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <!-- FOOTER -->
