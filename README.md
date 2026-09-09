@@ -55,6 +55,15 @@ const kai = {
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://te2sr.com">
+        <img src="https://img.shields.io/badge/TE2SR-te2sr.com-0066FF?style=for-the-badge&logo=googleplay&logoColor=white" alt="TE2SR"/>
+      </a>
+      <br/><br/>
+      <b>🚀 TE2SR Platform</b>
+      <br/>
+      <sub>Next.js • Cloudflare Pages • Mobile QA<br/>Google Play Closed Testing & Store Release</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://taifullstack.com">
         <img src="https://img.shields.io/badge/Portfolio-taifullstack.com-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
       </a>
@@ -72,6 +81,8 @@ const kai = {
       <br/>
       <sub>Next.js • NestJS • Prisma<br/>Premium digital products marketplace</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://audiotailoc.com">
         <img src="https://img.shields.io/badge/Audio-audiotailoc.com-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Audio"/>
@@ -81,7 +92,6 @@ const kai = {
       <br/>
       <sub>Next.js • Sonic Noir Design<br/>Professional audio & karaoke equipment</sub>
     </td>
-  </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://neostudy.vercel.app">
@@ -166,6 +176,9 @@ const kai = {
 
 <div align="center">
 
+<a href="https://github.com/Tai-DT/awesome-google-play-closed-testing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tai-DT&repo=awesome-google-play-closed-testing&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=c9d1d9" />
+</a>
 <a href="https://github.com/Tai-DT/mcp-tailwind-gemini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tai-DT&repo=mcp-tailwind-gemini&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
@@ -224,7 +237,7 @@ const kai = {
 |:--------:|:--------:|:----:|:----:|
 | 🤖 **AI/MCP Tools** | mcp-tailwind-gemini, mcp-go-gemini, expo-gemini-mcp-server | TypeScript, Go, Gemini AI | — |
 | 📱 **Mobile Apps** | EchoLens, NeoStudy, Hue Travel | React Native, Swift, Expo | — |
-| 🌐 **Web Platforms** | AI Support Studio, Portfolio, Audiotailoc | Next.js, NestJS, Cloudflare | [aisupport.studio](https://aisupport.studio) · [taifullstack.com](https://taifullstack.com) · [audiotailoc.com](https://audiotailoc.com) |
+| 🌐 **Web Platforms** | TE2SR, AI Support Studio, Portfolio, Audiotailoc | Next.js, NestJS, Cloudflare | [te2sr.com](https://te2sr.com) · [aisupport.studio](https://aisupport.studio) · [taifullstack.com](https://taifullstack.com) · [audiotailoc.com](https://audiotailoc.com) |
 | 🎬 **Creative Tools** | AI Video Creator Pro, Remote Logo Remover | Python, FFmpeg, AI | — |
 | 📊 **Utilities** | StudyGrid, StackGen, MCP Crawler | Vue, Python, HTML | [studygrid.vercel.app](https://studygrid.vercel.app) · [stackgen.live](https://stackgen.live) |
 
